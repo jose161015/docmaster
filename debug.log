@@ -1,0 +1,8 @@
+[1010/083832.310:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\HP\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\291f5e21-3856-4142-86e2-4aa113e25faf: El sistema no puede encontrar la ruta especificada. (0x3)
+[1010/083832.316:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\HP\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\699546e3-a9f9-49f7-b88b-326fc1f89f26: El sistema no puede encontrar la ruta especificada. (0x3)
+[1010/083832.323:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\HP\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\831ad95e-6515-454f-ac3d-d2d7d8f79f90: El sistema no puede encontrar la ruta especificada. (0x3)
+[1010/083832.328:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\HP\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\bbec551d-5c03-46e6-98b4-31920b9f0833: El sistema no puede encontrar la ruta especificada. (0x3)
+[1010/083832.330:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\HP\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\cd110a95-9de4-4971-b28a-73307f7a616b: El sistema no puede encontrar la ruta especificada. (0x3)
+[1010/083832.332:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\HP\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\cd35ccfa-cd64-4e95-8b00-6ea474c287a7: El sistema no puede encontrar la ruta especificada. (0x3)
+[1010/083832.337:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\HP\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\f8ed3a0e-2bb7-407c-b198-07d4ddc310d8: El sistema no puede encontrar la ruta especificada. (0x3)
+[1010/083832.339:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
